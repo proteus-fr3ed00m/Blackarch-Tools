@@ -9,4 +9,6 @@ Use ./Tools_install.sh to install tools.
 #######################
 Note
 #######################
+
+
 For keeping your linux distro clean and not loitred with tools create a blackarch tools folder. Then activate the script in there.
